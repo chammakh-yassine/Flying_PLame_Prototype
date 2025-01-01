@@ -1,11 +1,11 @@
 # Airplane Game Prototype
-![image](https://github.com/chammakh-yassine/GUI-Tic-Tac-Toe/blob/main/Screenshot%202024-11-29%20111105.png?raw=true)
+![image](https://github.com/chammakh-yassine/Flying_PLame_Prototype/blob/main/Screenshot%202024-12-30%20232441.png)
 
 
 
 ## Overview
 This is a basic airplane game prototype created in Unity. The game features a small aircraft that the player can control to navigate through an environment with obstacles. The primary focus is on demonstrating simple airplane movement mechanics and propeller rotation effects. 
-![image](https://github.com/chammakh-yassine/GUI-Tic-Tac-Toe/blob/main/Screenshot%202024-11-29%20111105.png?raw=true)
+![image](https://github.com/chammakh-yassine/Flying_PLame_Prototype/blob/main/Screenshot%202024-12-31%20142349.png)
 ---
 
 ## Features
@@ -28,8 +28,8 @@ This is a basic airplane game prototype created in Unity. The game features a sm
 
 ---
 ## scripts
-![image](https://github.com/chammakh-yassine/GUI-Tic-Tac-Toe/blob/main/Screenshot%202024-11-29%20111105.png?raw=true)
-![image](https://github.com/chammakh-yassine/GUI-Tic-Tac-Toe/blob/main/Screenshot%202024-11-29%20111105.png?raw=true)
+![image](https://github.com/chammakh-yassine/Flying_PLame_Prototype/blob/main/Screenshot%202024-12-31%20144028.png)
+![image](https://github.com/chammakh-yassine/Flying_PLame_Prototype/blob/main/Screenshot%202024-12-31%20144139.png)
 
 ---
 
